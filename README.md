@@ -1,7 +1,5 @@
 # Hello, welcome to my GitHub
 
----
-
 ## Current Status
 
 I have been working in a variety of Engineering fields for the past three years ranging from Mechanical to Civil and a few stops in between, and I am now looking to transition into Automation Software/Data Engineering. Although I have enjoyed my experience as a Mechanical Engineer, I have realized the aspects of my work I find most engaging are all optimizing/automating systems. It’s a strength of mine that I wish to develop further. 
