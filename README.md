@@ -10,8 +10,6 @@ My completed projects include, a Data Pipeline in which multiple AWS Lambda Func
 
 I’m currently seeking professional or collaborative opportunities to further broaden my experience and portfolio, if you’d like to work together, feel free to connect via LinkedIn or contact me directly at roehrmecheng@gmail.com
 
----
-
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
