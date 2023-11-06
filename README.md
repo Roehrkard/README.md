@@ -2,9 +2,7 @@
 
 ## Current Status
 
-I have been working in a variety of Engineering fields for the past three years ranging from Mechanical to Civil and a few stops in between, and I am now looking to transition into Test Automation Software Engineering. Although I have enjoyed my experience as a Mechanical Engineer, I have realized the aspects of my work I find most engaging are all optimizing/automating systems. It’s a strength of mine that I wish to pursue and develop further. 
-
-At present, I have taken classes and courses in Python, SQL, Data warehouse fundamentals, Test Driven Development, Unit testing, and Apache Airflow. I’m currently expanding my automation toolset by learning tools like Jenkins, Kubernetes, CMake, etc.
+I have taken classes and courses in Python, SQL, Data warehouse fundamentals, Test Driven Development, Unit testing, and Apache Airflow. I’m currently expanding my automation toolset by learning tools like Jenkins, Kubernetes, CMake, etc.
 
 My recent projects include, a Data Pipeline in which multiple AWS Lambda Function with daily CloudWatch trigger run Python scripts that scrape a data source and stores it in a RDS Database and a Basic Flask API hosted on an Ubuntu Linux server. And a Machine Failure AI predictor which uses a Decision Tree Classification Algorithm to predict what kind of machine failure will occur given a set of operating variables at a 97% accuracy rate.
 
