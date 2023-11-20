@@ -2,10 +2,6 @@
 
 ## Current Status
 
-I have taken classes and courses in Python, SQL, Data warehouse fundamentals, Test Driven Development, Unit testing, and Apache Airflow. I’m currently expanding my automation toolset by learning tools like Jenkins, Kubernetes, CMake, etc.
-
-My recent projects include, a Data Pipeline in which multiple AWS Lambda Function with daily CloudWatch trigger run Python scripts that scrape a data source and stores it in a RDS Database and a Basic Flask API hosted on an Ubuntu Linux server. And a Machine Failure AI predictor which uses a Decision Tree Classification Algorithm to predict what kind of machine failure will occur given a set of operating variables at a 97% accuracy rate.
-
 I’m seeking professional or collaborative opportunities to further broaden my experience and portfolio, if you’d like to work together, feel free to connect via LinkedIn or contact me directly at roehrmecheng@gmail.com
 
 ### Languages and Tools:
